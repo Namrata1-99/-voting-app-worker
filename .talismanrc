@@ -1,4 +1,6 @@
 fileignoreconfig:
 - filename: Program.cs
-  checksum: 73a1d49522d68192b1a7058108c95f2f45f623633714e37f5b0f41a7d471c9b6
+  checksum: 67954a1429e2e69f76dbc16a26efd3da8281b91d8bc528bbb34e8747e862e2c4
+- filename: jenkins/Jenkinsfile
+  checksum: 2a991c07da0ae11ba6017ef0a0b98421b4e3f0da77da13d1f6ac0b65276f941a
 version: ""
